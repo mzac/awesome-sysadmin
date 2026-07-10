@@ -544,6 +544,7 @@ Network configuration management tools.
 - [phpIPAM](https://phpipam.net/) - Open source IP address management with PowerDNS integration. ([Source Code](https://github.com/phpipam/phpipam)) `GPL-3.0` `PHP`
 - [RANCID](https://www.shrubbery.net/rancid/) - Monitor network devices configuration and maintain history of changes. ([Source Code](https://github.com/haussli/rancid)) `BSD-3-Clause` `Perl/Shell`
 - [rConfig](https://www.rconfig.com/) - Network device configuration management tool. ([Source Code](https://github.com/rconfig/rconfig)) `GPL-3.0` `PHP`
+- [SpatiumDDI](https://spatiumddi.github.io/spatiumddi/) - All-in-one DDI (DNS, DHCP, IPAM) platform that deploys and manages its own BIND9/PowerDNS and Kea service containers, with a full REST API and group-based RBAC. ([Source Code](https://github.com/spatiumddi/spatiumddi)) `Apache-2.0` `Python`
 
 
 ### PaaS
